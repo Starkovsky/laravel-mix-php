@@ -4,7 +4,7 @@ PHP Function for not @laravel project
 # Use in Project
 Add mix() to your page:
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
