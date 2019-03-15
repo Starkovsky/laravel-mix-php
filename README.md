@@ -1,5 +1,5 @@
 # laravel-mix-php
-PHP Function for not @laravel project
+PHP Function for @laravel-mix outside @laravel project
 
 # Use in Project
 Add mix() to your page:
